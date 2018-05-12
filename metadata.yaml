@@ -1,0 +1,33 @@
+_repo: Woodland-Tales_23667
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 23667-h/images/icover.png
+creator:
+  author:
+    agent_name: Seton, Ernest Thompson
+    aliases:
+    - Seton-Thomson, Ernest
+    - Thompson-Seton, Ernest
+    - Seton-Thompson, Ernest
+    - Seton, Wolf
+    birthdate: 1860
+    deathdate: 1946
+    gutenberg_agent_id: '535'
+    url: http://www.gutenberg.org/2009/agents/535
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Thompson_Seton
+description: ''
+gutenberg_bookshelf: Children's Instructional Books
+gutenberg_issued: '2007-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23667'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history -- Juvenile literature'
+- !lcc 'QH'
+title: Woodland Tales
+url: http://www.gutenberg.org/ebooks/23667
